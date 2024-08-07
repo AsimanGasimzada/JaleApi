@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\repositories\\implmentations\\generic\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\repositories\\implmentations\\generic\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\services\\implmentations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\services\\implmentations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\extensions\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\extensions\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\dtos\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\dtos\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\repositories\\interfaces\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\repositories\\interfaces\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\exceptions\\common\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\exceptions\\common\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\repositories\\implmentations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\repositories\\implmentations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\jale xanm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\jale xanm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\migrations\\20240802123616_addedstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\migrations\\20240802123616_addedstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|c:\\users\\asiman\\source\\repos\\jale xanm\\jale xanm\\migrations\\20240802123503_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2BADE4-A7AC-4D6C-B447-E9AC38E5A4E0}|Jale Xanm\\Jale Xanm.csproj|solutionrelative:jale xanm\\migrations\\20240802123503_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Dtos\\ResultDto.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Dtos\\ResultDto.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Dtos\\ResultDto.cs",
+              "RelativeToolTip": "Jale Xanm\\Dtos\\ResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:54:29.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Extensions\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Extensions\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Extensions\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Jale Xanm\\Extensions\\GlobalExceptionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:54:11.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Jale Xanm\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:28:20.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Jale Xanm\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:20:15.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Services\\Implmentations\\StudentService.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Services\\Implmentations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Services\\Implmentations\\StudentService.cs",
+              "RelativeToolTip": "Jale Xanm\\Services\\Implmentations\\StudentService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:15:41.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Repositories\\Implmentations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Repositories\\Implmentations\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Repositories\\Implmentations\\StudentRepository.cs",
+              "RelativeToolTip": "Jale Xanm\\Repositories\\Implmentations\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:01:27.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Repositories\\Implmentations\\Generic\\Repository.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Repositories\\Implmentations\\Generic\\Repository.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Repositories\\Implmentations\\Generic\\Repository.cs",
+              "RelativeToolTip": "Jale Xanm\\Repositories\\Implmentations\\Generic\\Repository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:51:01.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Repositories\\Interfaces\\Generic\\IRepository.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Repositories\\Interfaces\\Generic\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Repositories\\Interfaces\\Generic\\IRepository.cs",
+              "RelativeToolTip": "Jale Xanm\\Repositories\\Interfaces\\Generic\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:43:42.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Program.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Program.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Program.cs",
+              "RelativeToolTip": "Jale Xanm\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvysAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:31:30.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "Jale Xanm\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:13:14.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBaseException.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Exceptions\\Common\\IBaseException.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Exceptions\\Common\\IBaseException.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Exceptions\\Common\\IBaseException.cs",
+              "RelativeToolTip": "Jale Xanm\\Exceptions\\Common\\IBaseException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:21:22.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Jale Xanm\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:02:38.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "Jale Xanm\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:01:04.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240802123616_addedStudents.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Migrations\\20240802123616_addedStudents.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Migrations\\20240802123616_addedStudents.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Migrations\\20240802123616_addedStudents.cs",
+              "RelativeToolTip": "Jale Xanm\\Migrations\\20240802123616_addedStudents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:36:17.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Models\\Student.cs",
+              "RelativeToolTip": "Jale Xanm\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:35:30.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Jale Xanm.csproj",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Jale Xanm.csproj",
+              "RelativeDocumentMoniker": "Jale Xanm\\Jale Xanm.csproj",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Jale Xanm.csproj",
+              "RelativeToolTip": "Jale Xanm\\Jale Xanm.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T12:28:55.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240802123503_init.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Migrations\\20240802123503_init.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Migrations\\20240802123503_init.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Migrations\\20240802123503_init.cs",
+              "RelativeToolTip": "Jale Xanm\\Migrations\\20240802123503_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:35:03.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\appsettings.json",
+              "RelativeDocumentMoniker": "Jale Xanm\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\appsettings.json",
+              "RelativeToolTip": "Jale Xanm\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T12:32:47.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Jale Xanm\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Jale Xanm\\Jale Xanm\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Jale Xanm\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:29:08.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
